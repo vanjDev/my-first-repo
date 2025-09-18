@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 "Local change" 
 "Another change locally " 
+=======
+Changed from github web
+>>>>>>> 5ade4bfcbb97f9a433f6436a2c9f8d60404fb46f
